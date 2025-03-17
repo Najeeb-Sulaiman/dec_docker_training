@@ -14,6 +14,7 @@ This repository contains practice commands, exercises and resources to help you 
 - `PracticeCommands.md`: A document that provides common Docker commands to practice and learn how to work with containers and images.
 - `requirements/`: Contains the requirements file for Python dependencies.
 - `Tasks.md`: A step-by-step guide for completing the Docker training exercises.
+- `LICENSE`: License file containing terms of use.
 
 ---
 
