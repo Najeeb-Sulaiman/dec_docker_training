@@ -57,7 +57,7 @@ Below is a collection of high-quality free resources to help you learn Docker ef
 
 ## 🎥 Free Video Tutorials
 
-- **[Docker Full Course – TechWorld with Nana (YouTube)](https://www.youtube.com/watch?v=YFl2mCHdv24)**: A comprehensive beginner-friendly course covering Docker fundamentals.
+- **[Docker Full Course – TechWorld with Nana (YouTube)](https://youtu.be/3c-iBn73dDE?si=cKNWzKmNMgf2ozlL)**: A comprehensive beginner-friendly course covering Docker fundamentals.
 
 ## 🏗 Interactive Learning & Hands-on Labs
 
